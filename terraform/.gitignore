@@ -2,3 +2,4 @@
 id_rsa.pub
 terraform.tfstate.backup
 terraform.tfstate
+terraform.tfstate.*
